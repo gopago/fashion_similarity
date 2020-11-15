@@ -4,6 +4,7 @@
 # Dataset
 * polyvore dataset을 활용
 > * 11만여개의 의상 item을 갖고 있음
+https://github.com/xthan/polyvore-dataset 에서 image등등 다 받을 수 있음. 
 
 # Method
 1. 각 의상 item을 Resnet50을 통해 2,048차원의 벡터로 변환
